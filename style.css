@@ -1,9 +1,9 @@
 /* Central de Variáveis - Facilita a manutenção e garante consistência */
 :root {
     --verde-agrinho: #2ecc71;
-    --verde-escuro: #27ae60;
+    --verde-escuro: #00ff6aa6;
     --amarelo-destaque: #f1c40f;
-    --cor-texto-escuro: #754a11;
+    --cor-texto-escuro: #0a0a0a;
     --branco-puro: #ffffff;
     --sombra-suave: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
